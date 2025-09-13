@@ -5,6 +5,7 @@
 using namespace std; 
 int main() { 
     char first,middle,last;
+   
     first = 'M';
     middle = 'L';
     last = 'C';
